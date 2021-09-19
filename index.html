@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Simon</title>
+
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+</head>
+
+<body>
+  <h1 id="level-title">The Simon Game</h1>
+  <h2 class = "instruction">Scroll down for instructions</h2>
+  <div class="container">
+    <div lass="row">
+
+      <div type="button" id="g" class="btn green">
+        <p>G</p>
+      </div>
+
+      <div type="button" id="r" class="btn red">
+        <p>R</p>
+      </div>
+    </div>
+
+    <div class="row">
+
+      <div type="button" id="y" class="btn yellow">
+        <p>Y</p>
+      </div>
+      <div type="button" id="b" class="btn blue">
+        <p>B</p>
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class = "instructions">
+    <h2 class = "instruction-title">Instructions</h2>
+    <ol class="instruction">
+      <li>Press any key on the keyboard to start</li>
+      <br>
+      <li>Memorize the pattern</li>
+      <br>
+      <li>Play the pattern yourself by using the keyboard or clicking the buttons</li>
+    </ol>
+    <h2 class="instruction-title">Happy Playing!!</h2>
+  </div>
+  
+
+  <!-- JS file -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src = "game.js"></script>
+  
+</body>
+
+</html>
