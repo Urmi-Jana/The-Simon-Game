@@ -3,12 +3,10 @@ Want to put your memorizing skills to the test? Play this fun version of the mem
 
 Currently hosted on github pages
 
-Will be back soon!
-
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The game](#the-game)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -20,7 +18,7 @@ Will be back soon!
 
 ## Overview
 
-### The challenge
+### The game
 
 The player will be able to:
 1. View the pattern given by the computer
@@ -28,7 +26,7 @@ The player will be able to:
 
 ### Screenshot
 
-![](screenshot.png)
+![](simon screenshot.png)
 A screenshot of the web page I made.
 
 ### Links
