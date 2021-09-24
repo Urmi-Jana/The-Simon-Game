@@ -26,7 +26,7 @@ The player will be able to:
 
 ### Screenshot
 
-![](simon screenshot.png)
+![(simon screenshot.png)]
 A screenshot of the web page I made.
 
 ### Links
