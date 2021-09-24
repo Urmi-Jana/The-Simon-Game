@@ -49,9 +49,8 @@ I would like to further work on:
 
 ### Useful resources
 
-- [JQuery Documentation](https://api.jquery.com/) - This  helped in creating rounded buttons. I really liked this pattern and will use it going forward.
-
+- [JQuery Documentation](https://api.jquery.com/) - for info on JQuery functions
 
 ## Author
 
-- LinkedIn - [@Urmi Jana] https://www.linkedin.com/in/urmi-jana-16b44b21b/
+- LinkedIn - [@Urmi Jana](https://www.linkedin.com/in/urmi-jana-16b44b21b/)
