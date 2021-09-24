@@ -33,7 +33,7 @@ A screenshot of the web page I made.
 
 ### Links
 
-- Live Site URL: https://urmi-jana.github.io/3-column-preview-card-project
+- Live Site URL: https://urmi-jana.github.io/The-Simon-Game/
 
 ## My process
 
