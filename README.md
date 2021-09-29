@@ -39,7 +39,7 @@ A screenshot of the web page I made.
 
 - Semantic HTML5 markup
 - CSS custom properties
-- JQuery fromework for Javascript
+- JQuery framework for Javascript
 
 
 ### Continued development
